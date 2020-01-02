@@ -1,7 +1,7 @@
 # docker-symfony
 docker symfony 5 (latest) php 7.4 nginx and postgresql
 
-[![Build Status](https://travis-ci.org/apimobi/docker-symfony.svg?branch=dev)](https://travis-ci.org/apimobi/docker-symfony)
+[![Build Status](https://travis-ci.org/apimobi/docker-symfony.svg?branch=master)](https://travis-ci.org/apimobi/docker-symfony)
 
 # Installation
 
