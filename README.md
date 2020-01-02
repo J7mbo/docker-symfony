@@ -1,2 +1,18 @@
 # docker-symfony
-docker symfony 5 php 7.4
+docker symfony 5 (latest) php 7.4 nginx and postgresql
+
+
+# Installation
+
+clone this repository
+
+```bash
+$ git clone 
+```
+Use Makefile to initiate your application
+By default the name of the application is my_project.
+
+```bash
+$ make install
+```
+Symfony is ready to use at 127.0.0.1:8080
